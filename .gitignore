@@ -2,19 +2,19 @@
 __pycache__
 
 # Local logs
-dataset1/logs
-dataset2/logs
-dataset3/logs
+data/dataset1/logs
+data/dataset2/logs
+data/dataset3/logs
 
 # Local submissions
-dataset1/submission
-dataset2/submission
-dataset3/submission
+data/dataset1/submission
+data/dataset2/submission
+data/dataset3/submission
 
 # Data
-dataset1/processed
-dataset2/processed
-dataset3/processed
+data/dataset1/processed
+data/dataset2/processed
+data/dataset3/processed
 
 # Local misc
 mlg*
