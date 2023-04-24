@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__
+
+# Local logs
+dataset1/logs
+dataset2/logs
+dataset3/logs
+
+# Local submissions
+dataset1/submission
+dataset2/submission
+dataset3/submission
+
+# Data
+dataset1/processed
+dataset2/processed
+dataset3/processed
+
+# Local misc
+mlg*
+/*.ipynb
